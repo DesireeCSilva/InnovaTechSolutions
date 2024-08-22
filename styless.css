@@ -88,7 +88,7 @@ body {
     }
 
     .containerImg {
-       position: relative;
+        position: relative;
     }
 
 
@@ -182,8 +182,8 @@ body {
     .section2__container {
         display: flex;
         /* justify-content: space-between; */
-     }
-     
+    }
+
     .descriptiveText {
         color: #fff;
         font-family: "Roboto";
