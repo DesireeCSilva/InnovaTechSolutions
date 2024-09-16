@@ -303,7 +303,7 @@ body {
         background: white;
         box-shadow: 0px 5.842px 15.578px 0px rgba(0, 0, 0, 0.12);
         width: 30vw;
-        height: 40vh;
+        height: auto;
         margin: 3vh 5vw;
     }
     
@@ -331,6 +331,7 @@ body {
         background: none;
         cursor: pointer;
         margin-top: 3vh; 
+        margin-bottom: 1vh;
         margin-right: 1vw;
     }
     
